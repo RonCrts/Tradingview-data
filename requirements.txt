@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+tradingview_ta
+base64
+tempfile
+os
